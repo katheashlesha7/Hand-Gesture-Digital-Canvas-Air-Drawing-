@@ -1,4 +1,5 @@
 # Air Canvas
+Created by: Ashlesha Kathe
 
 Draw on a digital canvas by moving your index finger in front of a webcam. Air Canvas uses Python, OpenCV, and MediaPipe's Hand Landmarker task to track a hand locally on your computer.
 
